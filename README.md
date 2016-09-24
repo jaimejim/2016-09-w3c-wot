@@ -65,7 +65,7 @@ The below agenda is meant to be flexible, based on what we need to discuss.
 
 |       |                 | Type Systems, Models, Model Translation            |
 |-------|-----------------|----------------------------------------------------|
-| 14:40 | Jaime Jiménez   | "Mapping from LWM2M model to CoMI YANG model"      |
+| 14:40 | Jaime Jiménez   | ["Mapping from LWM2M model to CoMI YANG model"](http://jaimejim.github.io/slides/t2trg.pdf)      |
 | 15:00 | Ari Keränen     | Bluetooth URIs                                     |
 | 15:20 | Coffee break    |                                                    |
 | 15:50 | Daniel Lux      | "Seluxit REST-ful open API for Lemonbeat devices"  |
